@@ -9,7 +9,10 @@
   <li>🔭 Intrigued to learn new technologies in Web Development.</li>
   <li>🌱 I’m currently learning Data Structures and Algorithms & Backend development.</li>
   <li>📫 How to reach me roshan836sharma@gmail.com</li>
-  <li>👉 My portfolio https://roshan-portfolio1.netlify.app/</li>
+  <li>👉 My portfolio 
+   <a href="https://roshan-portfolio1.netlify.app/" target="blank"> Roshan_portfolio</a>
+   
+   </li>
  </ul>
 
 
