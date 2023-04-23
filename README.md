@@ -10,7 +10,7 @@
   <li>🌱 I’m currently learning Data Structures and Algorithms & Backend development.</li>
   <li>📫 How to reach me roshan836sharma@gmail.com</li>
   <li>👉 My portfolio 
-   <a href="https://roshan-portfolio1.netlify.app/" target="_blank"> Roshan_portfolio</a>
+   <a href="https://roshan-portfolio1.netlify.app/" target="_blank">https://roshan-portfolio1.netlify.app/</a>
    
    </li>
  </ul>
