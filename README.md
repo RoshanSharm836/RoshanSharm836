@@ -18,7 +18,7 @@
 
 <h1 align="left">Connect with me <img src="https://thumbs.gfycat.com/HeftyGreenAidi-max-1mb.gif" alt="" width=100px height=50px/></h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/roshan-kumar-831194245/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="avinash-k-8691021a8/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roshan-kumar-831194245/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="Roshanrocked/" height="30" width="40" /></a>
 
 
 <h1 align="left">Skills</h1>
