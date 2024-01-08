@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Roshan kumar</h1>
 <h4 align="center">Observent and innovative Full Stack Developer having specialized in MERN stack. Collaborative team player. I have a strong motive to make myself a valued asset and passionate about learning new skills.</h4>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""  align="right" width="400px" height="300px" style="border-radius:50px"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanrocked&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkvar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansharm836&label=Profile%20views&color=0e75b6&style=flat" alt="roshan" /> </p>
 <h1>About Me </h1>
  <ul>
   <li>🔭 Intrigued to learn new technologies in Web Development.</li>
   <li>🌱 I’m currently learning Data Structures and Algorithms & Backend development.</li>
   <li>📫 How to reach me roshan836sharma@gmail.com</li>
   <li>👉 My portfolio 
-   <a href="https://roshanrocked.github.io/" target="_blank">https://roshanrocked.github.io/</a>
+   <a href="https://roshansharm836.github.io/" target="_blank">https://roshansharm836.github.io//</a>
    
    </li>
  </ul>
