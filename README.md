@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" alt="" />
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%" alt="" />
 <h1 align="center">Hi 👋, I'm Roshan kumar</h1>
 <h4 align="center">Observent and innovative Full Stack Developer having specialized in MERN stack. Collaborative team player. I have a strong motive to make myself a valued asset and am passionate about learning new skills.</h4>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""  align="right" width="400px" height="300px" style="border-radius:50px"/>
