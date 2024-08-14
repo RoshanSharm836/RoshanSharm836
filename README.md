@@ -9,7 +9,7 @@
   <li>🌱 I’m currently learning Data Structures and Algorithms & Backend development.</li>
   <li>📫 How to reach me roshan836sharma@gmail.com</li>
   <li>👉 My portfolio 
-   <a href="https://roshansharm836.github.io/" target="_blank">https://roshansharm836.github.io//</a>
+   <a href="https://roshan-sharma.netlify.app" target="_blank">https://roshan-sharma.netlify.app</a>
    
    </li>
  </ul>
@@ -17,7 +17,7 @@
 
 <h1 align="left">Connect with me <img src="https://thumbs.gfycat.com/HeftyGreenAidi-max-1mb.gif" alt="" width=100px height=50px/></h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/roshan-kumar-831194245/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="Roshanrocked/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roshan-kumar-831194245/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="RoshanSharm836/" height="30" width="40" /></a>
 
 
 <h1 align="left">Skills</h1>
